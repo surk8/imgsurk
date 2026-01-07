@@ -1,1 +1,2 @@
-## surk图片、css、js资源
+## surk的资源库
+关于图片、css、js等资源
